@@ -2,7 +2,7 @@
 
 Information is collected from the internet for Arcadia CA community.
 
-## Arcadia Recreation Catalog
+## [Arcadia Recreation Catalog](https://secure.rec1.com/CA/city-of-arcadia/catalog)
 
 City sponsored community classes, programs and events.
 
