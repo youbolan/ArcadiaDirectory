@@ -12,7 +12,7 @@ Offers community swim programming and lessons across beginner through advanced l
 
 ## Rosemead Aquatic Center
 
-Website: [https://rosemeadca.gov/services/parks_recreation/aquatics/index.php](https://rosemeadca.gov/services/parks_recreation/aquatics/index.php)
+Website: https://rosemeadca.gov/services/parks_recreation/aquatics/index.php
 
 Address: 9155 E. Mission Dr., Rosemead CA, 91770
 
