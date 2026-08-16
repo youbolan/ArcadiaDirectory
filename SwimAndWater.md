@@ -6,12 +6,11 @@ Website: https://arcadia.lacountypools.com
 
 Address: 405 S. Santa Anita Ave., Arcadia, CA 91007
 
-Registration: LA County Parks’ reservation system
-
 Phone: (626) 821-5894
 
-Swim lesson: Yes
+Swim lesson: Yes. https://arcadia.lacountypools.com/lessons/
 
+Registration: LA County Parks’ reservation system
 
 
 ## Rosemead Aquatic Center
